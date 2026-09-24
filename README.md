@@ -1,5 +1,7 @@
 # Data Structures and Algorithms 2 CA2 Project
 
+## Teammate: Yaroslav Tereschenko
+
 # Project Objective
 Create a JavaFX application that can search for and retrieve routes between points/rooms/exhibits on the main floor (level 2) in the National Gallery in London given a starting point/room/exhibit and a destination.
 
@@ -12,3 +14,5 @@ permutations).
   - This functionality should come in two forms: one using Dijkstra’s algorithm and one using breadth-first search (BFS).
 - Most interesting route (based on a list of artists a visitor is particularly interested in) between the starting point/room/exhibit and destination.
   - Using Dijkstra’s algorithm again.
+
+Grade: 90%
