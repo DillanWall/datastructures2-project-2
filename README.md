@@ -1,5 +1,4 @@
-# datastructures2-project-2
-Data Structures and Algorithms 2 CA2 Project
+# Data Structures and Algorithms 2 CA2 Project
 
 # Project Objective
 Create a JavaFX application that can search for and retrieve routes between points/rooms/exhibits on the main floor (level 2) in the National Gallery in London given a starting point/room/exhibit and a destination.
